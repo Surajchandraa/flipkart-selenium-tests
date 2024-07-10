@@ -1,2 +1,2 @@
-# flipkart-selenium-tests
+# selenium-tests
 Automation test cases for flipkart.
