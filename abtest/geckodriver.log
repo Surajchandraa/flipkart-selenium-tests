@@ -1,0 +1,26 @@
+1720669033645	geckodriver	INFO	Listening on 127.0.0.1:41675
+1720669034087	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "58605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7Oo84q"
+Gtk-Message: 09:07:14.107: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720669034743	Marionette	INFO	Marionette enabled
+1720669034900	Marionette	INFO	Listening on port 38847
+WebDriver BiDi listening on ws://127.0.0.1:58605
+Read port: 38847
+1720669035258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58605/devtools/browser/0e781b3d-3559-4587-aedc-053eab09ddff
+1720669061898	Marionette	INFO	Stopped listening on port 38847
+1720669075729	geckodriver	INFO	Listening on 127.0.0.1:54445
+1720669076166	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "44877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileX9uTUH"
+Gtk-Message: 09:07:56.185: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720669076818	Marionette	INFO	Marionette enabled
+1720669076964	Marionette	INFO	Listening on port 42573
+Read port: 42573
+WebDriver BiDi listening on ws://127.0.0.1:44877
+1720669077036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44877/devtools/browser/d364a192-3263-4588-8bd4-38c55e9b85a6
+1720669100110	Marionette	INFO	Stopped listening on port 42573
